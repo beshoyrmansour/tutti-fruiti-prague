@@ -9,10 +9,9 @@ import {
 } from "@remix-run/react";
 import { Analytics } from "@vercel/analytics/react";
 import type { LinksFunction } from "@vercel/remix";
-import styles from './style.css'
 
 export const links: LinksFunction = () => [
-  ...(cssBundleHref ? [{ rel: "stylesheet", href: cssBundleHref }, { rel: "stylesheet", href: styles },] : []),
+  ...(cssBundleHref ? [{ rel: "stylesheet", href: cssBundleHref },] : []),
 ];
 
 export default function App() {
