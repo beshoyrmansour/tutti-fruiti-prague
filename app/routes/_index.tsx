@@ -9,22 +9,17 @@ export const meta: MetaFunction = () => {
 
 export default function Index() {
   return (
-    <div style={{
-      display: 'flex',
-      flexDirection: 'column',
-      justifyContent: 'center',
-      alignItems: 'center',
-      gap: 12,
-      height: '100%',
-      padding: 16,
-      fontFamily: "system-ui, sans-serif", lineHeight: "1.8",
-      background: 'linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%)'
-    }}>
+
+    <div
+      className="flex flex-col justify-center items-center gap-12 h-full p-16 bg-gradient-to-r from-slate-950 to-indigo-900"
+      style={{
+        fontFamily: "system-ui, sans-serif", lineHeight: "1.8",
+      }}>
       <img src={logo} alt="logo" style={{ maxWidth: '800px' }} />
       <h1 style={{
         color: 'white',
         fontSize: '5rem',
-        fontWeight: 'lighter',
+        fontFamily: 'bayshore'
       }}>Coming soon ...</h1>
     </ div>
   );

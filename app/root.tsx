@@ -9,8 +9,13 @@ import {
 } from "@remix-run/react";
 import { Analytics } from "@vercel/analytics/react";
 import type { LinksFunction } from "@vercel/remix";
+import stylesheet from "~/styles/tailwind.css";
+import fontsStylesheet from "~/styles/font.css";
 
 export const links: LinksFunction = () => [
+  { rel: "stylesheet", href: stylesheet },
+  { rel: "stylesheet", href: fontsStylesheet },
+
   ...(cssBundleHref ? [{ rel: "stylesheet", href: cssBundleHref },] : []),
 ];
 

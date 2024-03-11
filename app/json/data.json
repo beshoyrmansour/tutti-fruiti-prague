@@ -1,0 +1,165 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "category_name": "Fresh drinks",
+      "image": "pic5.png",
+      "items": [
+        {
+          "name": "Passion fruit, mango, orange, apple",
+          "id": "1_item_1",
+          "nember": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "000.00"
+        },
+        {
+          "name": "Blueberry, strawberry, orange, apple",
+          "id": "1_item_2",
+          "nember": "002",
+          "image": "_7eb7af6a-a26f-4cb7-8d1b-8170f1ab44e9.jpg",
+          "price": "000.00"
+        },
+        {
+          "name": "Kiwi, pineapple, lemon, orange, apple",
+          "id": "1_item_3",
+          "nember": "003",
+          "image": "_8e4741dc-0e0d-4e55-8d12-ab870a9e86b5.jpg",
+          "price": "000.00"
+        },
+        {
+          "name": "Strawberry, banana, carrot, apple, orange, honey",
+          "id": "1_item_4",
+          "nember": "004",
+          "image": "_64dc47cd-d196-425b-8822-5e8726c91ebc.jpg",
+          "price": "000.00"
+        },
+        {
+          "name": "Mango, grapefruit, lemon, orange, honey, with ginger",
+          "id": "1_item_5",
+          "nember": "005",
+          "image": "pixlr-image-generator-4ae2b1b3-725c-4470-9940-b0ed72b45f05.png",
+          "price": "000.00"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "category_name": "Fresh drinks with nuts",
+      "image": "pic2.png",
+      "items": [
+        {
+          "name": "Banana, apple, strawberry, orange, honey, almonds",
+          "id": "2_item_1",
+          "nember": "006",
+          "image": "pixlr-image-generator-5b4f9a50-a64f-4c4e-bc0a-bcbca3226bb4.png",
+          "price": "000.00"
+        },
+        {
+          "name": "Banana, apple, strawberry, orange, honey, almonds",
+          "id": "2_item_2",
+          "nember": "007",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "000.00"
+        },
+        {
+          "name": "Dates, banana, apple, honey, pistachio/almonds",
+          "id": "2_item_3",
+          "nember": "008",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "000.00"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "category_name": "Exclusive drinks",
+      "image": "pic3.png",
+      "items": [
+        {
+          "name": "Passionfruit, mango, banana, coconut milk, cream",
+          "id": "3_item_1",
+          "nember": "009",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "000.00"
+        },
+        {
+          "name": "Banana, chia seeds, almonds, oats, cinnamon, dates, peanut butter, milk",
+          "id": "3_item_2",
+          "nember": "010",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "000.00"
+        },
+        {
+          "name": "Chocolate, coconut/milk, banana, cream, milk",
+          "id": "3_item_3",
+          "nember": "011",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "000.00"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "category_name": "Fit drinks",
+      "image": "pic4.png",
+      "items": [
+        {
+          "name": "Raspberry, blueberry, banana, orange, apple",
+          "id": "4_item_1",
+          "nember": "012",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "000.00"
+        },
+        {
+          "name": "Dates, banana, yoghurt, protein",
+          "id": "4_item_2",
+          "nember": "013",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "000.00"
+        },
+        {
+          "name": "Banana, strawberry, orange, yoghurt",
+          "id": "4_item_3",
+          "nember": "014",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "000.00"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "category_name": "Vegetable drinks",
+      "image": "pic2.png",
+      "items": [
+        {
+          "name": "Carrot, celery, ginger, orange, apple",
+          "id": "5_item_1",
+          "nember": "015",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "000.00"
+        },
+        {
+          "name": "Carrot, celery, ginger, orange, apple",
+          "id": "5_item_2",
+          "nember": "016",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "000.00"
+        },
+        {
+          "name": "Carrot, orange, apple, with/without mint",
+          "id": "5_item_3",
+          "nember": "017",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "000.00"
+        },
+        {
+          "name": "Blueberry, mango, banana, matcha, lemon, orange, apple",
+          "id": "5_item_4",
+          "nember": "018",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "000.00"
+        }
+      ]
+    }
+  ]
+}
